@@ -10,7 +10,7 @@ F64 =-m64
 
 
 .c.s:
-	$(CC) $(OFLAGS) $(CINC) -S $(F64) $*.c -o $*.s
+	$(CC) $(OFLAGS) $(CINC) -S $(F64) $*.c
 
 
 files:	arith.s
