@@ -1,4 +1,4 @@
-# Activity 11: Arithmetic in Assembly
+# Activity 12: Arithmetic in Assembly
 ## Put your name(s) here
 
 In this activity, you will experiment with translating C arithmetic into assembly. You will:
